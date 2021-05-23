@@ -1,0 +1,6 @@
+students/Compilation_Error_gets_10/error1.c:6:1: error: expected '}'
+^
+students/Compilation_Error_gets_10/error1.c:4:1: note: to match this '{'
+{
+^
+1 error generated.

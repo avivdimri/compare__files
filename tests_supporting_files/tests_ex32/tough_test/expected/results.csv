@@ -1,0 +1,7 @@
+biu_student_different,50,WRONG
+biu_student_great,100,EXCELLENT
+biu_student_insensitive,75,SIMILAR
+biu_student_slow,20,TIMEOUT
+biu_student_stupid,0,NO_C_FILE
+biu_student_stupid2,0,NO_C_FILE
+biu_student_terrible,10,COMPILATION_ERROR

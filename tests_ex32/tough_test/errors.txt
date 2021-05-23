@@ -1,0 +1,4 @@
+students/biu_student_terrible/cccgcc.c:6:2: error: extraneous closing brace ('}')
+}}
+ ^
+1 error generated.

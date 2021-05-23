@@ -1,0 +1,3 @@
+I hate recursion. Can you guess what my algorithm is?
+Please enter two numbers
+6
